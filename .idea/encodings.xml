@@ -3,6 +3,7 @@
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
     <file url="file://$PROJECT_DIR$/README.md" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lib/velocity-js-rails/version.rb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/velocityjs-rails.gemspec" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../sil-studio.com/Gemfile" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../sil-studio.com/app/addons/addons-assets-root/public.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../sil-studio.com/app/addons/project-assets/public-assets/javascripts/main.js.coffee" charset="UTF-8" />

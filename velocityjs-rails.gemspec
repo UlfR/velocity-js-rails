@@ -12,4 +12,6 @@ Gem::Specification.new do |s|
 	s.homepage			=	"http://www.techome.co.il/en"
 	s.license			=	"MIT"
 
+  s.files				=	`git ls-files`.split($/)
+  s.require_paths		=	["lib"]
 end
