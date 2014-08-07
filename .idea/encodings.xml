@@ -2,7 +2,8 @@
 <project version="4">
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
     <file url="file://$PROJECT_DIR$/README.md" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/lib/velocityjs-rails/version.rb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/velocity-js-rails/version.rb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../sil-studio.com/Gemfile" charset="UTF-8" />
   </component>
 </project>
 
